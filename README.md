@@ -1,5 +1,7 @@
 # alpine-python3-lint
 
+[![](http://dockeri.co/image/alastairhm/alpine-python3-lint)](https://index.docker.io/u/alastairhm/alpine-python3-lint/)
+
 [Pylint](https://www.pylint.org/) in a container
 
 ## Usage
