@@ -9,6 +9,7 @@ Dates in this file are in format of YYYY-MM-DD (2019-12-13 means 13th of Decembe
 ## [Unreleased]
 
 * Build Action for GitHub packages, Alpine 3.14.2, pylint 2.11.1, Python 3.9.5
+* Alpine 3.15
 
 ## [[3.13]](https://github.com/alastairhm/alpine-python3-lint/releases/tag/3.13) - 2021-05-14
 

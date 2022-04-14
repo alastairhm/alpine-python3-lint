@@ -17,3 +17,13 @@ Or setup an alias
 ```bash
 alias py_lint='docker run --rm -v "$PWD:/workdir" ghcr.io/alastairhm/alpine-python3-lint'
 ```
+
+```text
+          _    _ __  __
+    /\   | |  | |  \/  | Email   : alastair@montgomery.me.uk
+   /  \  | |__| | \  / | Web     : https://blog.0x32.co.uk/
+  / /\ \ |  __  | |\/| | Twitter : @alastair_hm
+ / ____ \| |  | | |  | |
+/_/    \_\_|  |_|_|  |_| (c) 2021
+```
+
